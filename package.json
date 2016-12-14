@@ -1,7 +1,7 @@
 {
   "name": "split-selection-into-cursors",
   "main": "./lib/split-selection-into-cursors",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Split selection into cursors",
   "keywords": [
     "split",
