@@ -2,13 +2,16 @@
   "name": "split-selection-into-cursors",
   "main": "./lib/split-selection-into-cursors",
   "version": "0.1.0",
-  "description": "Surround selection with cursors",
+  "description": "Split selection into cursors",
   "keywords": [
+    "split",
+    "selection",
+    "cursor"
   ],
   "activationCommands": {
     "atom-workspace": "split-selection-into-cursors:split"
   },
-  "repository": "https://github.com/atom/split-selection-into-cursors",
+  "repository": "https://github.com/brumm/split-selection-into-cursors",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
