@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Surround selection with cursors",
+        "command": "split-selection-into-cursors:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "split-selection-into-cursors",
+          "submenu": [
+            {
+              "label": "Surround selection with cursors",
+              "command": "split-selection-into-cursors:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

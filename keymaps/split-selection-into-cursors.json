@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-shift-s": "split-selection-into-cursors:split"
+  }
+}
